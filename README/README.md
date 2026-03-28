@@ -17,8 +17,7 @@ As a Student Digital Ambassador, this project helped me grasp the importance of 
 
 ## Repository Overview
 README.md  
-report/  
-  └── Project_Report.pdf  
+report/   
 task-1-presentation/  
 task-2-portfolio/  
 task-3-platforms/  
@@ -69,11 +68,11 @@ In this task, I learned about cybercrime.
 
 This helped me develop awareness about the importance of staying safe from cybercrime.
 
-## Useful Links
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://www.linkedin.com/in/your-profile  
-- Kaggle: https://www.kaggle.com/your-username  
-- Google Form Quiz: https://forms.google.com/your-form-link  
+## Useful Tools
+- GitHub
+- LinkedIn
+- Kaggle
+- Google Form Quiz
 
 ## Learning Outcome
 From this project, I learned the importance of digital identity, safe online behavior, professional communication, and the use of digital tools for collaboration and learning.
