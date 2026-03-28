@@ -1,0 +1,25 @@
+SATY SAFE ONLINE CHECKLIST 
+
+Use Strong & Unique Passwords
+Create passwords using letters, numbers, and symbols. Avoid using the same password across apps.
+
+2. Enable Two-Factor Authentication (2FA)
+Always turn on OTP or authentication apps for extra account security.
+
+3.Avoid Clicking on Unknown Links
+Do not click suspicious links in emails, messages, or social media—they may be phishing scams.
+
+4.Keep Devices & Apps Updated
+Regular updates fix security issues and protect against hackers.
+
+5.Never Share Personal or Banking Details
+Do not share passwords, OTPs, ATM PINs, or bank details with anyone online.
+
+6.Be Careful with UPI Payment Requests
+On apps like Google Pay, PhonePe, and Paytm, accepting a request means you are paying money—not receiving. Always verify before approving.
+
+7.Never Share OTP or UPI PIN
+No bank or official will ever ask for it. Sharing these can lead to instant fraud.
+
+8.Report Cyber Fraud Immediately
+If you face any scam, report it on the National Cyber Crime Portal or call Helpline 1930 for quick action and possible recovery of money.
